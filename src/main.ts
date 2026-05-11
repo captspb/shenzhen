@@ -6,7 +6,7 @@ const content = `
 <header class="hero">
   <div class="hero-content">
     <h1>SHENZHEN</h1>
-    <p class="subtitle">China's Most Dynamic Economic Powerhouse</p>
+    <p class="subtitle">China's Most Dynamic Economic Powerhouse！！！</p>
     <div class="hero-stats">
       <div class="stat">
         <div class="stat-number">17M+</div>
